@@ -2592,7 +2592,7 @@ let capt = `⭔ Title: ${judul}
 ⭔ Storage: ${storage}
 ⭔ Display: ${display}
 ⭔ Inchi: ${inchi}
-⭔ Pixel: ${pixel}
+⭔ Pixel: ${pixel} ada
 ⭔ Video Pixel: ${videoPixel}
 ⭔ Ram: ${ram}
 ⭔ Chipset: ${chipset}
@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
-> Umur : *18*
+> Name : *Luxxyxyz*
+> Nomor : *https://wa.me/6288210072756*
+> Umur : *14*
 > Region : *Indonesia 🇲🇨*
 > Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Made in : *Jakarta Timur*
+> Nama Asli : *Alfin... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
